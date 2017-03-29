@@ -1,0 +1,6 @@
+use_frameworks!
+target 'TouchFoundation_Tests' do
+  pod 'TouchFoundation', :path => '../'
+  
+  
+end
