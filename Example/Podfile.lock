@@ -1,0 +1,16 @@
+PODS:
+  - TouchFoundation (0.1.0)
+
+DEPENDENCIES:
+  - TouchFoundation (from `../`)
+
+EXTERNAL SOURCES:
+  TouchFoundation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TouchFoundation: 1a8bf2e9fa8979ad6e0a4cd6cac56924bae6f843
+
+PODFILE CHECKSUM: 8f99b04c91c5956695643ddb8fef6093b9daebf3
+
+COCOAPODS: 1.2.0
