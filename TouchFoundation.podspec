@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/Guangdong Lin/TouchFoundation'
+  s.homepage = 'https://github.com/TouchCode/TouchFoundation'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Guangdong Lin' => 'deviphone@specialistapps.com' }
-  s.source           = { :git => 'https://github.com/Guangdong Lin/TouchFoundation.git', :tag => s.version.to_s }
+  s.author   = { 'Jonathan Wight' => 'schwa@toxicsoftware.com' }
+  s.source           = { :git => 'https://github.com/specialistapps/TouchFoundation.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
