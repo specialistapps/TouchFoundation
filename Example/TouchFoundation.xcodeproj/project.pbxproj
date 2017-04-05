@@ -332,7 +332,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = BB41406E0A0D5ABA1EA24507 /* Pods-TouchFoundation_Tests.debug.xcconfig */;
 			buildSettings = {
-				CLANG_ENABLE_OBJC_ARC = NO;
+				CLANG_ENABLE_OBJC_ARC = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -356,7 +356,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D4759B26085B6A67A379989F /* Pods-TouchFoundation_Tests.release.xcconfig */;
 			buildSettings = {
-				CLANG_ENABLE_OBJC_ARC = NO;
+				CLANG_ENABLE_OBJC_ARC = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
